@@ -5,6 +5,7 @@ npm-debug.log
 # VIM
 *~
 *.swp
+.idea
 dist
 doc
 config/local_env.json
